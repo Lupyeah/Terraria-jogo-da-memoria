@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Um jogo da Memória com o tema de slimes do terraria!
 
-- [Para ver no site](https://lupyeah.github.io/terraria-jogo-da-memoria/)
+- [Para ver no site](https://lupyeah.github.io/Terraria-jogo-da-memoria/)
 
 ## 📋 Funcionalidades
 
