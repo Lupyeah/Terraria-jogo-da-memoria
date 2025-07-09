@@ -22,6 +22,7 @@ Um jogo da Memória com o tema de slimes do terraria!
 ## 📋 Funcionalidades
 
 - 📌 Jogo com cartões personalizados!
-- ❗ Música de fundo e outros sons!
-
+- ❗ Efeitos sonoros ao interagir com as cartas!
+- 🎶 Música de fundo suave!
+- 🏆 Efeito de vitória com animações!
 ---
